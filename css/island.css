@@ -1,0 +1,21 @@
+h1 {
+  color: lightskyblue;
+  font-size: xx-large;
+  font: helvetica;
+}
+h2 {
+  color: black;
+  font-size: large
+}
+h3 {
+  color: black;
+  font-size: medium;
+}
+p {
+  font-style: helvetica;
+  text-align: center;
+}
+body {
+  background-color: darkkhaki;
+  text-align: center;
+}
